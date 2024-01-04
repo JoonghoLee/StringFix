@@ -38,3 +38,7 @@ StringFix requires the pre-installed python packages including `Numpy`, `Pandas`
 2. decompress the file by typing `tar -xzvf StringFix_test_data.tar.gz` in a terminal.
 3. Change directory to the decompressed directory.
 4. run `./test_run.sh`. (If needed, make the shell script executable by typing `chmod 777 test_run.sh`)
+
+
+## Publication
+![20240104_165700](https://github.com/JoonghoLee/StringFix/assets/35910715/e7c145d2-13da-4cd9-b5a2-3bad66f906fe)
